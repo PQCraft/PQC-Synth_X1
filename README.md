@@ -1,5 +1,2 @@
 # PQC-Synth_X1
-A helm bank of synthesizer presets <br>
-
----
-Helm synth: https://tytel.org/helm/
+Preset banks for [Helm](https://tytel.org/helm/) and [Vital](https://vital.audio/)
